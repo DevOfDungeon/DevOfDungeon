@@ -13,7 +13,7 @@ Currently on the road to becoming a Security Architect, learning by building, br
 * 🕵️ Vulnerability Research & Threat Detection
 * 🐧 Linux & Security Tooling
 * 🤖 Exploring AI × Cybersecurity
-* 🧪 Research, experimentation & questionable amounts of debugging
+* 🧪 Research, experimentation & questionable amounts of debugging (psst... am also working on a research paper in the field of quantum computing 🤪)
 
 ---
 
@@ -65,24 +65,8 @@ Check out -> [Runtime API Security Layer](https://github.com/DevOfDungeon/Wyvrn-
 ## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/prerit-arora-4126b8327/)
-[![GitHub](https://img.shields.io/badge/GitHub-DevOfDungeon-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/DevOfDungeon)
 
 ---
 
 > **Think like an attacker. Build like a paranoid engineer.**
 
-
-<!--
-**DevOfDungeon/DevOfDungeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

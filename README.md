@@ -13,7 +13,8 @@ Currently on the road to becoming a Security Architect, learning by building, br
 * 🕵️ Vulnerability Research & Threat Detection
 * 🐧 Linux & Security Tooling
 * 🤖 Exploring AI × Cybersecurity
-* 🧪 Research, experimentation & questionable amounts of debugging (psst... am also working on a research paper in the field of quantum computing 🤪)
+* 🧪 Research, experimentation & questionable amounts of debugging
+  (psst... am also working on a research paper in the field of quantum computing 🤪)
 
 ---
 

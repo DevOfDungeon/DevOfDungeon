@@ -1,4 +1,4 @@
-## Hi there 👋
+## Heyyy folks wsggggg
 
 Myself Prerit, a developer exploring the intersection of cybersecurity, ethical hacking, penetration testing, and secure system design.
 Currently on the road to becoming a Security Architect, learning by building, breaking, researching, and occasionally wondering why the code worked in the first place.

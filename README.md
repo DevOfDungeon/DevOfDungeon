@@ -31,7 +31,7 @@ Currently on the road to becoming a Security Architect, learning by building, br
 
 **Development**
 
-`FastAPI` · `Flutter` · `React` · `Git` · `MongoDB`· `HTML/CSS`
+`FastAPI` · `Flutter` · `React` · `Git` · `SQL`· `HTML/CSS`
 
 ---
 

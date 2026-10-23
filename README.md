@@ -27,7 +27,7 @@ Currently on the road to becoming a Security Architect, learning by building, br
 
 **Security**
 
-`Kali Linux` · `Burp Suite` · `OWASP` · `Nmap` · `Wireshark`
+`Kali Linux` · `Black Arch` · `Burp Suite` · `OWASP` · `Nmap` · `Wireshark`
 
 **Development**
 
